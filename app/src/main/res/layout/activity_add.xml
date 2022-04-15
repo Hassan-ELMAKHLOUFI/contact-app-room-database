@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".add">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/photo"
+        android:layout_width="132dp"
+        android:layout_height="112dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="48dp"
+        android:layout_weight="1"
+        android:src="@drawable/programmer"
+        app:civ_border_color="#9b59b6"
+        app:civ_border_width="2dp"
+        app:layout_constraintBottom_toTopOf="@+id/nomAdd"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/nomAdd"
+        android:layout_width="371dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="204dp"
+        android:hint="Nom et prenom"
+        android:padding="12dp"
+        android:textColor="#050505"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></EditText>
+
+    <EditText
+        android:id="@+id/jobAdd"
+        android:layout_width="372dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="12dp"
+        android:hint="Post"
+        android:padding="12dp"
+        android:textColor="#050505"
+        app:layout_constraintEnd_toEndOf="@+id/nomAdd"
+        app:layout_constraintStart_toStartOf="@+id/nomAdd"
+        app:layout_constraintTop_toBottomOf="@+id/nomAdd"></EditText>
+
+    <EditText
+        android:id="@+id/emailAdd"
+        android:layout_width="370dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="36dp"
+        android:hint="Email"
+        android:padding="12dp"
+        android:textColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.363"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/jobAdd"></EditText>
+
+    <EditText
+        android:id="@+id/numAdd"
+        android:layout_width="374dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="28dp"
+        android:hint="Numero de telephone"
+        android:padding="12dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailAdd"></EditText>
+
+    <Button
+        android:id="@+id/Ajouter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="160dp"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="72dp"
+        android:background="#BD9312"
+        android:text="Ajouter"
+        android:textColor="#050505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/numAdd" />
+</androidx.constraintlayout.widget.ConstraintLayout>
