@@ -8,10 +8,10 @@
 <img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/list.jpg" width="500" height="850">
 ## Activites d'ajout
 
-<img src="https://www.zohowebstatic.com/sites/default/files/zoho_general_pages/zh-mobileapp.png">
+<img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/ajouter.jpg" width="500" height="850">
 ## Activites de modification
 
-<img src="https://www.zohowebstatic.com/sites/default/files/zoho_general_pages/zh-mobileapp.png">
+<img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/modifier.jpg" width="500" height="850">
 ## Activites de Recherche
 
-<img src="https://www.zohowebstatic.com/sites/default/files/zoho_general_pages/zh-mobileapp.png">
+<img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/rechercher.jpg" width="500" height="850">
