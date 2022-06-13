@@ -5,7 +5,7 @@
 
 ## Activites d'acueil
 
-<img src="[https://www.zohowebstatic.com/sites/default/files/zoho_general_pages/zh-mobileapp.png](https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/list.jpg)">
+<img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/list.jpg">
 ## Activites d'ajout
 
 <img src="https://www.zohowebstatic.com/sites/default/files/zoho_general_pages/zh-mobileapp.png">
