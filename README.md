@@ -1,17 +1,17 @@
 # contact-app-room-database
 
-# Simulation
 
 
-## Activites d'acueil
+
+# Activites d'acueil
 
 <img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/list.jpg" width="500" height="850">
-## Activites d'ajout
+# Activites d'ajout
 
 <img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/ajouter.jpg" width="500" height="850">
-## Activites de modification
+# Activites de modification
 
 <img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/modifier.jpg" width="500" height="850">
-## Activites de Recherche
+# Activites de Recherche
 
 <img src="https://github.com/Hassan-ELMAKHLOUFI/contact-app-room-database/blob/main/rechercher.jpg" width="500" height="850">
