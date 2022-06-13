@@ -71,38 +71,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-//                //get string from edit text
-//                String snom=nom.getText().toString().trim();
-//                String sjob=job.getText().toString().trim();
-//                String semail=email.getText().toString().trim();
-//                String snumero=numero.getText().toString().trim();
-//
-//                // check condition
-//                if(!snom.equals(""))
-//                 {
-//                    // when text is not empty
-//                    // initialize main data
-//
-//                 MainData data=new MainData();
-//
-//                 //Set text on main data
-//                    data.setNom(snom);
-//                    data.setEmail(semail);
-//                    data.setJob(sjob);
-//                    data.setPhone(snumero);
-//
-//                    //Insert text in database
-//                    database.mainDao().insert(data);
-//
-//                    //Clear edit text
-//                    nom.setText("");
-//
-//                    //Notify when data is inserted
-//                    dataList.clear();
-//                    dataList.addAll(database.mainDao().getAll());
-//                    adapter.notifyDataSetChanged();
 
-   //             }
                 startActivity(intent);
             }
 
